@@ -1,4 +1,4 @@
 # TRYExchangeRates
-Exchange rate watcher for Turkish Lira.
+Exchange rate tracker for Turkish Lira.
 Currently using alpha vantage api.
 Just run RunMe.py
