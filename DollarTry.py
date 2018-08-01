@@ -12,3 +12,7 @@ def getDollarName():
 def getDollarTryRate():
     dollarRate = dollarData["Realtime Currency Exchange Rate"]["5. Exchange Rate"]
     return dollarRate
+
+def getDolarRefTime():
+    dollarRefTime = dollarData["Realtime Currency Exchange Rate"]["6. Last Refreshed"]
+    return dollarRefTime

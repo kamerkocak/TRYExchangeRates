@@ -1,6 +1,5 @@
-from DollarTry import getDollarName,getDollarTryRate
-from EuroTry import getEuroName,getEuroTryRate
+from Printer import showMe
+import time
 
-print(getDollarName(),getDollarTryRate())
-print(getEuroName(),getEuroTryRate())
-input("Press any key to exit.")
+showMe()
+input()

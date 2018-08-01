@@ -12,3 +12,7 @@ def getEuroName():
 def getEuroTryRate():
     euroRate = euroData["Realtime Currency Exchange Rate"]["5. Exchange Rate"]
     return euroRate
+
+def getEuroRefTime():
+    euroRefTime = euroData["Realtime Currency Exchange Rate"]["6. Last Refreshed"]
+    return euroRefTime
