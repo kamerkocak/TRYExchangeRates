@@ -1,1 +1,3 @@
 # TRYExchangeRates
+Exchange rate watcher for Turkish Lira.
+Currently using alpha vantage api.
